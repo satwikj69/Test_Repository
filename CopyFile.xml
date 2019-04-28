@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<project name="CopyFile" default="copy">
+	<target name="copy">
+	<echo message="Start of target Copy"/>
+		<!-- <scp remoteTodir="ec2-user@34.230.58.251:/usr/src"
+			keyfile="C:\Users\cheeku\Desktop\AWS\MyDesktop24Mar.ppk" trust="yes" sftp="true">
+			<fileset dir="C:\Users\cheeku\Desktop\GitRepo">
+				<include name="**/*" />
+			</fileset>
+		</scp> -->
+	</target>
+</project>
